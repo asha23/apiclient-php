@@ -9,5 +9,5 @@ Installation
 It's easiest to install and use the library via [Composer](https://getcomposer.org/).
 
 ```
-composer require brightlocal/apiclient-php
+composer require awhiting/apiclient-php-8
 ```
