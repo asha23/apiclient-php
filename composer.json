@@ -1,6 +1,6 @@
 {
-  "name": "brightlocal/apiclient-php8",
-  "description": "BrightLocal API Client",
+  "name": "brightlocal/apiclient-php-8",
+  "description": "BrightLocal API Client (PHP8)",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
