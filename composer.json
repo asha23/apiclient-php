@@ -1,5 +1,5 @@
 {
-  "name": "brightlocal/apiclient-php",
+  "name": "brightlocal/apiclient-php8",
   "description": "BrightLocal API Client",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -10,8 +10,8 @@
     }
   ],
   "require": {
-    "guzzlehttp/guzzle": "^7.2",
-    "php": ">=7.2",
+    "guzzlehttp/guzzle": "*",
+    "php": "*",
     "ext-json": "*"
   },
   "autoload": {
